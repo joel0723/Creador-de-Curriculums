@@ -1,0 +1,23 @@
+.imput-error{
+    border-color: red;
+    border-width: medium;
+}
+.margen-izq-2{
+    margin-left: 2%;
+}
+.margen-top-3{
+    margin-top: 3%;
+}
+.labe {
+    cursor: pointer;
+    border: 1px solid #939393;
+    padding: 1px 6px;
+    
+  }
+
+  .margen-top-10{
+      margin-top: 10%;
+  }
+.margen-izq-50{
+    margin-left: 50%;
+}
